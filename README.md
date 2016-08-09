@@ -1,5 +1,4 @@
-# Hello-word
-import java.lang.*;
+# Hello-world
 import java.util.*;
 import java.io.*;
 Public class Number(){
