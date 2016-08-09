@@ -9,10 +9,10 @@ Scanner sc=new Scanner(System.in);
 int n=sc.nextInt();
 if(n!=0)
 {
-  if(n>0)
+  if(n>1)
   {
     System.out.println("Positive");
-         if(n<0)
+         if(n<1)
          {
             System.out.println("Negative");
           }
